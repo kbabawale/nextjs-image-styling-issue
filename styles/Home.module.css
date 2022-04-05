@@ -1,16 +1,7 @@
 .pagewrapper {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.authpages_section {
-  flex-basis: 50%;
-  height: 100vh;
-}
-
-.authpages_heroimg {
-  display: inline-flex;
+  justify-content: space-between;
 }
 
 .title {
